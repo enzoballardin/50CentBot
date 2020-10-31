@@ -57,10 +57,10 @@ def lambda_handler(event, context):
 
 
     # Consumer keys and access tokens, used for OAuth
-    consumer_key = 'YfY7HzPkpwTcz2rdTy740fIkT'
-    consumer_secret = 'XYsaFVmSNsdw0EhHM3tkK61Rpdn8LaDq2RK629Or2kNq9tBT0q'
-    access_token = '1319434573386813446-6HirwltYj0pvQvYHNDdGxiLXe0ecLc'
-    access_token_secret = '13O2ErC6C9fI7jZn7U57m2ZexUcKgoZqwLt57FRddpFle'
+    consumer_key = ''
+    consumer_secret = ''
+    access_token = ''
+    access_token_secret = ''
     
     # OAuth process, using the keys and tokens
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
