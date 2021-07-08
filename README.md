@@ -1,6 +1,5 @@
 # 50CentBot
 50CentBot is a bot that posts an image on Twitter everyday, with the daily exchange rate for "50 cents" of american dollars in brazilian real.
-It was inspired in a bad joke about the name "50cent"...
 
 ![Screenshot](/50centbot.png)
 
